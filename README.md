@@ -18,7 +18,7 @@ Key Features:
 
 - Introduction: This project focuses on predictive modelling and model optimization using the Breast Cancer dataset. The goal is to build and compare different ML classification models, evaluate their performance, and improve accuracy through hyperparameter tuning.
 
-- Models Used: Logistic Regression, Decision Tree, Random Forest, SVM, K-Nearest Neighbors.
+- Models Used: Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors.
 
 - Methods:
     - Feature selection for model optimization.
